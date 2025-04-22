@@ -4,13 +4,12 @@
 ```bash
  mkdir -p ~/gki_android12-9
  cd ~/gki_android12-9
-
 ```
 
 ##### Sync #####
 ##### Initialize local repository #####
 ```bash
-repo init -u https://github.com/DVWorkspaces/kernel_gki_android12-9 -b nethunter
+repo init -u https://github.com/imnathanzero/wired-kranul-manifest -b nethunter
 ```
 
 ##### Sync #####
