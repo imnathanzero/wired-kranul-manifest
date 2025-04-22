@@ -3,7 +3,7 @@
     <remote name="aosp" fetch="https://android.googlesource.com/" review="https://android.googlesource.com/"/>
 
     <!-- Remote GitHub -->
-    <remote name="gh" fetch="https://github.com/picasso09"/>
+    <remote name="gh" fetch="https://github.com/imnathanzero"/>
 
     <default revision="master-kernel-build-2021" remote="aosp" sync-j="4"/>
 
